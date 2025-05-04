@@ -1,0 +1,5 @@
+2025/05/04-04:49:08.650 3dbc Creating DB C:\Users\tejes\Downloads\AI calling function\whatsapp-chatbot\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2025/05/04-04:49:08.668 3dbc Reusing MANIFEST C:\Users\tejes\Downloads\AI calling function\whatsapp-chatbot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/04-04:49:08.669 3dbc Recovering log #4
+2025/05/04-04:49:08.669 3dbc Reusing old log C:\Users\tejes\Downloads\AI calling function\whatsapp-chatbot\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2025/05/04-04:49:08.670 3dbc Delete type=2 #5
